@@ -11,6 +11,7 @@ python -m venv venv
 ```
 
 3 - Test the Application
+(Create .env file and add Groq key "GROQ_API_KEY = the your key")
 
 3.1 - Start the Server, In your first terminal window, run:
 
